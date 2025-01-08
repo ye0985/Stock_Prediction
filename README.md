@@ -1,4 +1,4 @@
-# Stock Prediction Using LSTM
+# Stock Prediction Using Tensorflow, LSTM
 
 ## Project Overview
 This project aims to predict stock prices using Long Short-Term Memory (LSTM) neural networks. The focus is on preprocessing historical stock data, calculating moving averages, and training an LSTM-based model to make accurate predictions.
